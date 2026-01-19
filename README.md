@@ -1,4 +1,4 @@
-# Shell
+# MavShell
 Building Custom Shell (cloning BASH) in C
 
 # Contributors
